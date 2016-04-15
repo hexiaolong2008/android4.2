@@ -1,0 +1,6 @@
+config RFID_RC522
+	bool "NXP RFID device RC522"
+	default n
+	help
+	  Say Y here if you want to enable RFID device rc522.
+
